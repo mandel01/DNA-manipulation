@@ -3,6 +3,7 @@
 #11/27/2004
 #To convert flat file of genome listing into database format of overlapping 25-mers
 #in both directions, circularized
+#Mandel, M. J. (2005). Nutrient Starvation and Post-Transcriptional Regulation of RpoS in Escherichia coli. PhD Dissertation, Princeton University 1–292.
 
 #10/28/2006--Reminder-input files must be in all lowercase, raw sequence format.
 
